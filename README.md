@@ -12,6 +12,10 @@
 
 ![Modelo Conceitual](https://github.com/GabrielSz2/imagens/blob/main/chess-system-design.png)
 
+# Layout
+
+![Layout](https://github.com/GabrielSz2/imagens/blob/main/layout-Chess.png)
+
 # Tecnologias Usadas
 
 - **Linguagem de Programação**: Java
