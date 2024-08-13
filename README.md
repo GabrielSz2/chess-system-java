@@ -36,3 +36,8 @@
 # 4. Executar o programa:
        java application/program
 ```
+
+# Autor
+Gabriel Souza
+
+https://www.linkedin.com/in/gabriel-souza-b578962a5/
